@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "render_base",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_render_line::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_render_line-Debug-998e5b79aa0725032912.json",
+					"name" : "01_render_line",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_triangle-Debug-af871533a9ba0d5ca81e.json",
+					"name" : "02_triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_triangle_index::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_triangle_index-Debug-d5fdbb5a9bcf852117a5.json",
+					"name" : "03_triangle_index",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_triangle_modified::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_triangle_modified-Debug-75c85a22a64c3c6c5992.json",
+					"name" : "04_triangle_modified",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_GFX::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_GFX-Debug-bf0516c30c2e7a6d5dbd.json",
+					"name" : "05_GFX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "0_render_base::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0_render_base-Debug-00d998bca796e7fb4f30.json",
+					"name" : "0_render_base",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vertil/dev/04/build",
+		"source" : "/home/vertil/dev/04/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O2 -DNDEBUG -shared -Wl,-soname,libeng.so -o libeng.so CMakeFiles/eng.dir/engine.cxx.o  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2-2.0d.so.0.14.0 /usr/local/lib/libSDL2maind.a 

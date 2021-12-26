@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/dev/04-openGL/min_test/src/engine.hxx
+vector
+-
+fstream
+-
+string
+-
+iostream
+-
+array
+-
+cmath
+-
+algorithm
+-
+cassert
+-
+sstream
+-
+stdexcept
+-
+SDL2/SDL.h
+-
+glad/glad.h
+/home/vertil/dev/04-openGL/min_test/src/glad/glad.h
+
+/home/vertil/dev/04-openGL/min_test/src/game.cxx
+engine.hxx
+/home/vertil/dev/04-openGL/min_test/src/engine.hxx
+
+/home/vertil/dev/04-openGL/min_test/src/glad/glad.h
+KHR/khrplatform.h
+-
+

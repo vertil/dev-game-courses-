@@ -1,0 +1,5 @@
+# ninja log v5
+0	312	1611761596346218367	CMakeFiles/Hello-lib-dyn.dir/src/hello_lib.cxx.o	6026c26d0823fe95
+0	313	1611761596346218367	CMakeFiles/Hello-lib-stat.dir/src/hello_lib.cxx.o	79834b2da1b8a769
+313	365	1611761596397218597	libHello-lib-stat.a	9be6c1ec25c051ee
+313	384	1611761596416218682	libHello-lib-dyn.so	21c1b9c9068e68f

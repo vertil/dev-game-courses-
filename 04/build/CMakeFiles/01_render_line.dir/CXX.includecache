@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/dev/04/src/01_render_line.hxx
+0_canvas_base.cxx
+/home/vertil/dev/04/src/0_canvas_base.cxx
+
+/home/vertil/dev/04/src/01_render_line_main.cxx
+01_render_line.hxx
+/home/vertil/dev/04/src/01_render_line.hxx
+
+/home/vertil/dev/04/src/0_canvas_base.cxx
+0_canvas_base.hxx
+/home/vertil/dev/04/src/0_canvas_base.hxx
+
+/home/vertil/dev/04/src/0_canvas_base.hxx
+vector
+-
+fstream
+-
+string
+-
+iostream
+-
+array
+-
+cmath
+-
+

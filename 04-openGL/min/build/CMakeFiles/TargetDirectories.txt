@@ -1,0 +1,4 @@
+/home/vertil/dev/04-openGL/min/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/04-openGL/min/build/CMakeFiles/edit_cache.dir
+/home/vertil/dev/04-openGL/min/build/CMakeFiles/game.dir
+/home/vertil/dev/04-openGL/min/build/CMakeFiles/engine.dir

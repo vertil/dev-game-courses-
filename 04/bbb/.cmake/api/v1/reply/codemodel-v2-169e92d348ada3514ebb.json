@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04-0-render-basic",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-Debug-be93e992fe1f4d3d772c.json",
+					"name" : "04-0-render-basic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic-line::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-line-Debug-d0a76643aa3f4ca789ee.json",
+					"name" : "04-0-render-basic-line",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic-triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-triangle-Debug-459bf93e345c0476604f.json",
+					"name" : "04-0-render-basic-triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic-triangle-indexed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-triangle-indexed-Debug-c21115ef0b553c99e7b7.json",
+					"name" : "04-0-render-basic-triangle-indexed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic-triangle-interpolated::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-triangle-interpolated-Debug-8256d08d786c71caf1e4.json",
+					"name" : "04-0-render-basic-triangle-interpolated",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-basic-windowed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-basic-windowed-Debug-173fa436ee22ce186b32.json",
+					"name" : "04-0-render-basic-windowed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-full-windowed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-full-windowed-Debug-44bcd8588ce4f2fd441d.json",
+					"name" : "04-0-render-full-windowed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-0-render-image-windowed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-0-render-image-windowed-Debug-7777df7aab2eb9ba1db0.json",
+					"name" : "04-0-render-image-windowed",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vertil/dev/04/bbb",
+		"source" : "/home/vertil/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

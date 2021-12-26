@@ -1,0 +1,5 @@
+# ninja log v5
+0	115	1611761607637269187	CMakeFiles/Hello-bin-dyn.dir/src/main.cxx.o	446e4b80f0dfb20
+1	73	1611761627648359252	Hello-bin-dyn	46444359eba66942
+1	103	1611761627678359387	CMakeFiles/Hello-bin-stat.dir/src/main.cxx.o	fedb1bc6b752b668
+103	176	1611761627750359711	Hello-bin-stat	44e7312c416cac05

@@ -1,0 +1,8 @@
+/home/vertil/dev/04/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/04/build/CMakeFiles/03_triangle_index.dir
+/home/vertil/dev/04/build/CMakeFiles/02_triangle.dir
+/home/vertil/dev/04/build/CMakeFiles/edit_cache.dir
+/home/vertil/dev/04/build/CMakeFiles/05_GFX.dir
+/home/vertil/dev/04/build/CMakeFiles/04_triangle_modified.dir
+/home/vertil/dev/04/build/CMakeFiles/01_render_line.dir
+/home/vertil/dev/04/build/CMakeFiles/0_render_base.dir

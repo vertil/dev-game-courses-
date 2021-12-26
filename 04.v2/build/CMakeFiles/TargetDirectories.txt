@@ -1,0 +1,3 @@
+/home/vertil/dev/04.v2/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/04.v2/build/CMakeFiles/edit_cache.dir
+/home/vertil/dev/04.v2/build/CMakeFiles/GFX_V2.dir

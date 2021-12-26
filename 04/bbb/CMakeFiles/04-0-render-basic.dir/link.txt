@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/04-0-render-basic.dir/00_canvas_basic.cxx.o CMakeFiles/04-0-render-basic.dir/00_canvas_basic_main.cxx.o -o 04-0-render-basic 

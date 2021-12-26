@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/dev/04/src/0_canvas_base.cxx
+0_canvas_base.hxx
+/home/vertil/dev/04/src/0_canvas_base.hxx
+
+/home/vertil/dev/04/src/0_canvas_base.hxx
+vector
+-
+fstream
+-
+string
+-
+iostream
+-
+array
+-
+cmath
+-
+
+/home/vertil/dev/04/src/0_canvas_base_main.cxx
+0_canvas_base.hxx
+/home/vertil/dev/04/src/0_canvas_base.hxx
+

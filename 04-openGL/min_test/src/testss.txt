@@ -1,0 +1,42 @@
+cmake_minimum_required(VERSION 3.18)
+project(opengl-min CXX C)
+
+find_package(SDL2 REQUIRED)
+message(STATUS "SDL2_LIBRARIES[${SDL2_LIBRARIES}] "
+    "SDL2_INCLUDE_DIRS[${SDL2_INCLUDE_DIRS}]")
+
+
+
+add_executable(opengl-min
+                            engine.hxx
+                            game.cxx
+
+                            KHR/khrplatform.h
+                            glad/glad.h
+                            glad/glad.c
+                                          )
+target_link_libraries(opengl-min PRIVATE ${SDL2_LIBRARIES})
+target_include_directories(opengl-min PRIVATE ${SDL2_INCLUDE_DIRS})
+target_link_libraries(opengl-min PRIVATE SDL2::SDL2 SDL2::SDL2main)
+target_compile_features(opengl-min PUBLIC cxx_std_17)
+#---------------------
+cmake_minimum_required(VERSION 3.18)
+project(opengl-min CXX C)
+find_package(SDL2 REQUIRED)
+
+add_library(engine SHARED
+
+    engine.hxx
+    KHR/khrplatform.h
+    glad/glad.h
+    glad/glad.c)
+target_compile_features(engine PUBLIC cxx_std_17)
+target_include_directories(engine PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
+
+target_include_directories(engine PRIVATE ${SDL2_INCLUDE_DIRS})
+target_link_libraries(engine PRIVATE SDL2::SDL2 SDL2::SDL2main)
+
+
+add_executable(game game.cxx)
+target_compile_features(game PUBLIC cxx_std_17)
+target_link_libraries(game PRIVATE engine)

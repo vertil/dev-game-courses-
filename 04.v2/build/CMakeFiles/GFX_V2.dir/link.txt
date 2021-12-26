@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/GFX_V2.dir/GFX_main.cxx.o -o GFX_V2  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2-2.0d.so.0.14.0 /usr/local/lib/libSDL2maind.a 

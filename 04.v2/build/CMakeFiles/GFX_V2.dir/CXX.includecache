@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/dev/04.v2/src/GFX.hxx
+vector
+-
+fstream
+-
+string
+-
+iostream
+-
+array
+-
+cmath
+-
+algorithm
+-
+cassert
+-
+SDL2/SDL.h
+-
+
+/home/vertil/dev/04.v2/src/GFX_main.cxx
+GFX.hxx
+/home/vertil/dev/04.v2/src/GFX.hxx
+

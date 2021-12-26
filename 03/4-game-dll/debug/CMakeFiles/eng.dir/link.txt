@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--export-dynamic -rdynamic CMakeFiles/eng.dir/engine.cxx.o -o eng  -Wl,-rpath,/usr/local/lib:/home/vertil/dev/03/4-game-dll/debug /usr/local/lib/libSDL2-2.0d.so.0.14.0 /usr/local/lib/libSDL2maind.a libgame.so 

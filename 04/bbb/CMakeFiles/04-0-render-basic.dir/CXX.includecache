@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.cxx
+00_canvas_basic.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+array
+-
+cassert
+-
+cmath
+-
+cstddef
+-
+fstream
+-
+iomanip
+-
+vector
+-
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic_main.cxx
+00_canvas_basic.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+iostream
+-
+

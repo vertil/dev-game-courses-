@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/dev/03/3-eng-to-dll/src/engine.cxx
+engine.hxx
+/home/vertil/dev/03/3-eng-to-dll/src/engine.hxx
+
+/home/vertil/dev/03/3-eng-to-dll/src/engine.hxx
+cstdlib
+-
+iostream
+-
+string_view
+-
+vector
+-
+SDL2/SDL.h
+-
+

@@ -1,0 +1,4 @@
+/home/vertil/dev/04-openGL/min_test/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/04-openGL/min_test/build/CMakeFiles/edit_cache.dir
+/home/vertil/dev/04-openGL/min_test/build/CMakeFiles/game.dir
+/home/vertil/dev/04-openGL/min_test/build/CMakeFiles/glad.dir

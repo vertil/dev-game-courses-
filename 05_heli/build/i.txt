@@ -1,0 +1,29 @@
+g.v[0].x=0.0+move_x;
+g.v[0].y=0.0+move_y;
+        g.v[0].tex_x=0.0;
+        g.v[0].tex_y=1.0;
+        //2
+        g.v[1].x=0.0+move_x;
+        g.v[1].y=0.5+move_y;;
+        g.v[1].tex_x=0.0;
+        g.v[1].tex_y=0.0;
+        //3
+        g.v[2].x=0.5+move_x;
+        g.v[2].y=0.0+move_y;;
+        g.v[2].tex_x=1.0;
+        g.v[2].tex_y=1.0;
+        //
+        j.v[0].x=0.0+move_x;
+            j.v[0].y=0.5+move_y;
+            j.v[0].tex_x=0.0;
+            j.v[0].tex_y=0.0;
+            //2
+            j.v[1].x=0.5+move_x;
+            j.v[1].y=0.5+move_y;
+            j.v[1].tex_x=1.0;
+            j.v[1].tex_y=0.0;
+            //3
+            j.v[2].x=0.5+move_x;
+            j.v[2].y=0.0+move_y;
+            j.v[2].tex_x=1.0;
+            j.v[2].tex_y=1.0;

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/04_triangle_modified.dir/04_triangle_mod_main.cxx.o -o 04_triangle_modified 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/03_triangle_index.dir/03_triangle_index_main.cxx.o -o 03_triangle_index 

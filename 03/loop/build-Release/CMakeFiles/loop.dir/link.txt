@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -DNDEBUG CMakeFiles/loop.dir/main.cxx.o -o loop  -Wl,-rpath,/usr/local/lib libeng.a /usr/local/lib/libSDL2-2.0d.so.0.14.0 /usr/local/lib/libSDL2maind.a 

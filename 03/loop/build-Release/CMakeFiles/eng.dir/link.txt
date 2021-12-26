@@ -1,0 +1,2 @@
+/usr/bin/ar qc libeng.a CMakeFiles/eng.dir/engine.cxx.o
+/usr/bin/ranlib libeng.a

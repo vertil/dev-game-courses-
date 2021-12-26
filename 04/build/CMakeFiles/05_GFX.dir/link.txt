@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/05_GFX.dir/05_GFX_main.cxx.o -o 05_GFX  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2-2.0d.so.0.14.0 /usr/local/lib/libSDL2maind.a 

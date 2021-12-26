@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.cxx
+00_canvas_basic.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+array
+-
+cassert
+-
+cmath
+-
+cstddef
+-
+fstream
+-
+iomanip
+-
+vector
+-
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/01_line_render.cxx
+01_line_render.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/01_line_render.hxx
+algorithm
+-
+cassert
+-
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/01_line_render.hxx
+00_canvas_basic.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/00_canvas_basic.hxx
+
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/01_line_render_main.cxx
+01_line_render.hxx
+/home/vertil/Загрузки/b_y-om-a76d84b01f5e/class-01-basic-game-dev/04-0-render-basic/01_line_render.hxx
+

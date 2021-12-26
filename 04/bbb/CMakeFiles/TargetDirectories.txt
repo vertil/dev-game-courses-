@@ -1,0 +1,14 @@
+/home/vertil/dev/04/bbb/CMakeFiles/install/strip.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic-line.dir
+/home/vertil/dev/04/bbb/CMakeFiles/list_install_components.dir
+/home/vertil/dev/04/bbb/CMakeFiles/install.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic-triangle.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic-triangle-indexed.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-full-windowed.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic-windowed.dir
+/home/vertil/dev/04/bbb/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/04/bbb/CMakeFiles/edit_cache.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-basic-triangle-interpolated.dir
+/home/vertil/dev/04/bbb/CMakeFiles/04-0-render-image-windowed.dir
+/home/vertil/dev/04/bbb/CMakeFiles/install/local.dir

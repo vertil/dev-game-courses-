@@ -1,0 +1,7 @@
+/home/vertil/dev/05_heli_imgui/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/05_heli_imgui/build/CMakeFiles/edit_cache.dir
+/home/vertil/dev/05_heli_imgui/build/CMakeFiles/game_heli.dir
+/home/vertil/dev/05_heli_imgui/build/CMakeFiles/glad.dir
+/home/vertil/dev/05_heli_imgui/build/imgui/CMakeFiles/rebuild_cache.dir
+/home/vertil/dev/05_heli_imgui/build/imgui/CMakeFiles/edit_cache.dir
+/home/vertil/dev/05_heli_imgui/build/imgui/CMakeFiles/imgui.dir
